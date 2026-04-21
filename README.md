@@ -1,9 +1,16 @@
 ## Hi there 👋
 
-Sou Jack Costa, programador Front end, atualmente estou aprendendo e criando projetos com:
+## 🚀 Sobre Mim
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+Sou **Programador Full Stack** me descobrindo na programação, e estudando mais a cada dia.
+
+## 💻 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 /<!--
 **jacksantoscosta18/jacksantoscosta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
