@@ -4,7 +4,7 @@
 ## 🚀 Sobre Mim
 
 
-Sou **Programador Full Stack** me descobrindo na programação, e estudando mais a cada dia.
+Sou **Programador Front-End Developer** me descobrindo na programação, e estudando mais a cada dia.
 
 
 ## 💻 Tech Stack
